@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1MikhailStepanov1&layout=compact)](https://github.com/1MikhailStepanov1/github-readme-stats)
 
 
-:bomb: I’m currently working on [Computational Mathematics](https://github.com/1MikhailStepanov1/Computational_Mathematics) & Embedded Systems Project
+:bomb: I’m currently working on [Embedded Systems Project](https://github.com/CrazyChris3310/ZigbeePolivalka)
 
 ---
 
