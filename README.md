@@ -2,7 +2,7 @@
 
 ---
 
-### My name is Mikhail Stepanov. I'm a 2nd year student at ITMO University. 
+### 2nd year student at ITMO University
 ### Specialization: Informatics and Computer Engineering
 
 
