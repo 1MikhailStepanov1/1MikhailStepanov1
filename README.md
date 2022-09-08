@@ -2,14 +2,14 @@
 
 ---
 
-### 2nd year student at ITMO University
+### 3d year student at ITMO University
 ### Specialization: Informatics and Computer Engineering
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1MikhailStepanov1&layout=compact)](https://github.com/1MikhailStepanov1/github-readme-stats)
 
 
-:bomb: I’m currently working on [Embedded Systems Project](https://github.com/CrazyChris3310/ZigbeePolivalka)
+:bomb: Now I'm full of study. :(
 
 ---
 
