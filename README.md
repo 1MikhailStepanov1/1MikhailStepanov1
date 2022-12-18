@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1MikhailStepanov1&layout=compact)](https://github.com/1MikhailStepanov1/github-readme-stats)
 
 
-:bomb: Now I'm full of study. :(
+:bomb: [Currently working with Low Level Programming Course](https://github.com/1MikhailStepanov1/Low_Level_Programming)
 
 ---
 
