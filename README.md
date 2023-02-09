@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1MikhailStepanov1&layout=compact)](https://github.com/1MikhailStepanov1/github-readme-stats)
 
 
-:bomb: Currently working with [Low Level Programming Course](https://github.com/1MikhailStepanov1/Low_Level_Programming) and [CSA Lab3](https://github.com/1MikhailStepanov1/Computer-Science-Architecture-lab3)
+:bomb: Currently working with [Low Level Programming Course](https://github.com/1MikhailStepanov1/Low_Level_Programming)
 
 ---
 
