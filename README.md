@@ -5,8 +5,7 @@
 ### 3d year student at ITMO University
 ### Specialization: Informatics and Computer Engineering
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1MikhailStepanov1&layout=compact)](https://github.com/1MikhailStepanov1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1MikhailStepanov1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 :bomb: Currently working with [Low Level Programming Course](https://github.com/1MikhailStepanov1/Low_Level_Programming)
@@ -21,5 +20,3 @@
 
 
 ![](https://komarev.com/ghpvc/?username=1MikhailStepanov1&color=AA336A)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3m3n1s&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
