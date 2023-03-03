@@ -21,3 +21,5 @@
 
 
 ![](https://komarev.com/ghpvc/?username=1MikhailStepanov1&color=AA336A)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3m3n1s&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
