@@ -2,13 +2,13 @@
 
 ---
 
-### 3d year student at ITMO University
+### 4th year student at ITMO University
 ### Specialization: Informatics and Computer Engineering
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1MikhailStepanov1&hide=css,html,javascript&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:bomb: Currently learning Golang
+:bomb: Currently trying to keep balance between study and work
 
 ---
 
