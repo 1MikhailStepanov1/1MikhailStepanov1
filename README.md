@@ -2,8 +2,8 @@
 
 ---
 
-### 4th year student at ITMO University
-### Specialization: Informatics and Computer Engineering
+### 1 year Master degree student at ITMO University
+### Bachelor specialization: Informatics and Computer Engineering
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1MikhailStepanov1&hide=css,html,javascript&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
